@@ -1,0 +1,3 @@
+C:\Users\Angelina\Desktop\інформатика\лабораторні\yfnfif12\yfnfif12\x64\Debug\yfnfif12.vcxproj.AssemblyReference.cache
+C:\Users\Angelina\Desktop\інформатика\лабораторні\yfnfif12\yfnfif12\x64\Debug\yfnfif12.MyForm.resources
+C:\Users\Angelina\Desktop\інформатика\лабораторні\yfnfif12\yfnfif12\x64\Debug\yfnfif12.vcxproj.GenerateResource.cache
